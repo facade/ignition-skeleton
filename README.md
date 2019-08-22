@@ -32,7 +32,7 @@ Next replace these variables in all files of the project and delete this paragra
          },
 ```
  
-Now you're ready to develop your package inside a Nova app. 
+Now you're ready to develop your package inside a Laravel app. 
  
 **When you are done with the steps above delete everything above!**
 
