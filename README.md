@@ -29,7 +29,8 @@ Next replace these variables in all files of the project and delete this paragra
          {
              "type": "path",
              "url": "../your-new-package-repo"
-         },
+         }
+     ]
 ```
  
 Now you're ready to develop your package inside a Laravel app. 
